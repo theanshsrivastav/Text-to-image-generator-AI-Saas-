@@ -1,4 +1,4 @@
-### Text-to-Image Generator AI SaaS
+## Text-to-Image Generator AI SaaS
 
 A full-stack SaaS web app that generates images from text prompts using the ClipDrop AI API.
 Built with the MERN stack, it features authentication, credit-based usage, payments, and secure image access.
